@@ -1,7 +1,5 @@
 PUZZEL.JP LOGO
 ==============
-
-#PUZZEL.JP LOGO
 http://puzzel.jp/
 のロゴとかいろいろとかです。
 
